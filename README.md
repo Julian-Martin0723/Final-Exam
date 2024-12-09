@@ -4,6 +4,9 @@
 Based off their overall career and previous season statistics, who should finish the 2024-25 NFL football season as the Pittsburgh Steelers QB1?
 #
 #
+
+# How the model is built:
+
 Link to Tableau site:
 #
 
