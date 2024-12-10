@@ -5,6 +5,7 @@
 
 # How the model is built:
 + Tableau: Create a visual analysis of both Quarterbacks over the past 2 years, with the goal of finding which Quarterback may perform than the other for this season.
++ Streamlit: Used to visual the data found, with graphs and tables.
 + Github: Used to track changes overtime and provide easy collaboration with other users who may view the file.
 #
 Link to Tableau site:
